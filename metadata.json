@@ -1,0 +1,5 @@
+{
+  "name": "mango",
+  "description": "A minimal, manual envelope-style budgeting app focused on flexible category transfers and guilt-free adjustments.",
+  "requestFramePermissions": []
+}
